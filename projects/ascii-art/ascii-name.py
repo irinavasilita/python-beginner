@@ -1,6 +1,10 @@
-# First Name: Irina
-# Fun fact: I did breakdance for 4 years.
+'''
+Exercise to practice printing in python.
 
+Print your first name using the ASCII art technique.
+'''
+
+# First Name: Irina
 myName = """
 IIIII  RRRR   IIIII  N   N    A  
   I    R   R    I    NN  N   A A 
